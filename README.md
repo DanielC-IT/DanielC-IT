@@ -13,8 +13,8 @@ IT professional with 6+ years of experience in technical support, troubleshootin
 
 <h2>👨‍💻 Information Technology Projects</h2>
 
--  [osTicket Installation and Configuration on Windows 11](https://github.com/DanielC-IT/osticket-prereqs) – Installed and configured osTicket using IIS, PHP, and MySQL, gaining hands-on experience with Windows administration, web server setup, and help desk infrastructure.
-- **Project 2:** [Project Name](PROJECT-LINK) – Project description.
+- [osTicket Installation and Configuration on Windows 11](https://github.com/DanielC-IT/osticket-prereqs) – Installed and configured osTicket using IIS, PHP, and MySQL, gaining hands-on experience with Windows administration, web server setup, and help desk infrastructure.
+- [Active Directory Setup Using Microsoft Azure](https://github.com/DanielC-IT/activedirectoryprep/blob/main/README.md) – Deployed two Windows VMs in Microsoft Azure and configured virtual networking, static IP addressing, and DNS. Verified connectivity to prepare for Active Directory deployment.
 - **Project 3:** [Project Name](PROJECT-LINK) – Project description.
 
 <h2>🤝 Connect With Me</h2>
